@@ -19,12 +19,20 @@ app.get("/random-problem", (req, res) => {
   }
 });
 
+app.get("/problems", (req, res) => {
+  try {
+    res.json({ zadania: problems });
+  } catch (error) {
+    res.status(500).json({ error: "Błąd serwera" });
+  }
+});
+
 app.get("/", (req, res) => {
   res.send("Hello world");
 });
 
 // Ustawiamy port, na którym będzie nasłuchiwał serwer
-const port = 3000;
+const port = 3333;
 app.listen(port, () => {
   console.log(`Serwer działa na http://localhost:${port}`);
 });
