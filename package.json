@@ -1,14 +1,15 @@
 {
-    "name": "kanye-rest",
+    "name": "math-problems-api",
     "version": "2.0.0",
-    "author": "Andrew Jazbec",
-    "description": "A free REST API for random Kanye West quotes (Kanye as a Service)",
+    "author": "Szymon Wilczek",
+    "description": "A free REST API for generating math problems in polish language.",
     "license": "MIT",
     "scripts": {
-        "start": "wrangler dev",
-        "publish": "wrangler publish"
+        "start": "node index.js",
+        "publish": "echo 'No publishing required for a standalone Express.js app.'"
     },
-    "devDependencies": {
-        "wrangler": "2.0.6"
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
     }
 }

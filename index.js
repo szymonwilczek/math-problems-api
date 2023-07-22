@@ -1,29 +1,30 @@
-import problems from "./problems.json";
+const express = require("express");
+const app = express();
+const cors = require("cors"); // Dodajemy obsługę CORS dla zapytań z innych domen
 
-const headers = {
-  "Access-Control-Allow-Origin": "*",
-  "Access-Control-Allow-Methods": "GET",
-  "Access-Control-Allow-Headers": "Content-Type",
-};
+// Dane z pliku JSON - zakładając, że są w odpowiednim formacie
+const problems = require("./problems.json");
 
-export default {
-  fetch(request) {
-    try {
-      const random_problem =
-        problems[Math.floor(Math.random() * problems.length)];
+// Dodajemy middleware do obsługi zapytań CORS
+app.use(cors());
 
-      const url = new URL(request.url);
-      switch (url.pathname) {
-        default:
-          return new Response(JSON.stringify({ zadanie: random_problem }), {
-            headers: { ...headers, "content-type": "application/json" },
-          });
-      }
-    } catch (error) {
-      return new Response(error.toString(), {
-        status: 500,
-        headers: { ...headers },
-      });
-    }
-  },
-};
+// Endpoint do pobierania losowego zadania
+app.get("/random-problem", (req, res) => {
+  try {
+    const random_problem =
+      problems[Math.floor(Math.random() * problems.length)];
+    res.json({ zadanie: random_problem });
+  } catch (error) {
+    res.status(500).json({ error: "Błąd serwera" });
+  }
+});
+
+app.get("/", (req, res) => {
+  res.send("Hello world");
+});
+
+// Ustawiamy port, na którym będzie nasłuchiwał serwer
+const port = 3000;
+app.listen(port, () => {
+  console.log(`Serwer działa na http://localhost:${port}`);
+});
