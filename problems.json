@@ -190,12 +190,668 @@
     "answerUrl": null
    },
    {
-    "description": "Kąt \\alpha jest ostry",
+    "description": "Kąt $\\alpha$ jest ostry i $(\\sin\\alpha + \\cos\\alpha)^2 = \\frac{3}{2}$. Oblicz wartość wyrażenia $\\sin\\alpha * \\cos\\alpha$.",
     "combinations": null,
     "answer": "",
     "photoUrl": null,
     "tags": null,
     "answerUrl": null
-   }
+   },
+   {
+    "description": "Rozwiąż nierówność $-2x^2 + 3x < 4$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wykaż, że dla każdej liczby $a > 0$ i dla każdej liczby $b > 0$ prawdziwa jest nierówność $\\frac{1}{a} + \\frac{1}{b} \\geqslant \\frac{4}{a+b}$",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wykaż, że przekątna prostopadłościanu o krawędziach długości $a, b, c$ ma długość $\\sqrt{a^2 + b^2 + c^2}$",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "W układzie współrzędnych punkty $A = (4, 3)$ i $B = (10, 5)$ są wierzchołkami trókąta $ABC$. Wierzchołek $C$ leży na prostej o równaniu $y=2x+3$. Oblicz współrzędne punktu $C$, dla którego kąt $ABC$ jest prosty.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Liczba $10$ jest przybliżeniem z nadmiarem liczby $a$. Błąd bezwzględny tego przybliżenia wynosi $0,4$. Błąd względny tego przybliżenia to:",
+    "combinations": ["A) $4%$", "B) $4,1(6)%$", "C) $4,(4)%$", "D) $40%$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dane są punkty $A = (4, 1), B = (1, 3), C = (4, -1)$. Pole trójkąta $ABC$ jest równe",
+    "combinations": ["A) $3$", "B) $6$", "C) $8$", "D) $10$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dane są punkty $A = (-2, 5), B = (4, -1). Średnica okręgu wpisanego w kwadrat o boku $AB$ jest równa",
+    "combinations": ["A) $12$", "B) $6$", "C) $6\\sqrt{2}$", "D) $2\\sqrt{6}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Suma liczby odwrotnej do liczby $-4\\frac{3}{5}$ i liczby przeciwnej do liczby $\\frac{18}{23}$ jest równa",
+    "combinations": ["A) $-1$", "B) $0$", "C) $\\frac{21}{23}$", "D) $1$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Pole powierzchni całkowitej prostopadłościanu o wymiarach $5 x 3 x 4$ jest równe",
+    "combinations": ["A) $94$", "B) $60$", "C) $47$", "D) $20$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Kąt ostry $\\alplha$ jest ostry i $\\sin\\alpha = \\frac{7}{13}$. Wtedy $\\tg\\alpha$ jest równy",
+    "combinations": ["A) $\\frac{7}{6}$", "B) $\\frac{7 * 13}{120}$", "C) $\\frac{7}{\\sqrt{120}}$", "D) $$\\frac{7}{13\\sqrt{120}}"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Graniastosłup ma $15$ krawędzi. Ile wierzchołków ma ten graniastosłup?",
+    "combinations": ["A) $10$", "B) $5$", "C) $15$", "D) $30$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Kąt $ASB$ jest kątem środkowym w okręgu i jego miara wynosi $100\\degree$. Miara zaznaczonego kąta $\\alpha$ jest równa",
+    "combinations": ["A) $40\\degree$", "B) $45\\degree$", "C) $50\\degree$", "D) $60\\degree$"],
+    "answer": "",
+    "photoUrl": "https://www.matemaks.pl/grafika/g0128.png",
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Do wykresu funkcji $f(x) = log_4x$ nie należy punkt",
+    "combinations": ["A) $(1, 0)$", "B) $(\\frac{1}{2}, -\\frac{1}{2})$", "C) $(2, 2)$", "D) $(16, 2)$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Na rysunku przedstawiony jest przedział $(-10, k)$, gdzie $k$ jest liczbą całkowitą. Suma wszystkich liczb całkowitych należących do tego przedziału jest równa 21. Stąd wynika, że",
+    "combinations": ["A) $k=9$", "B) $k=11$", "C) $k=21$", "D) $k=31$"],
+    "answer": "",
+    "photoUrl": "https://www.matemaks.pl/grafika/g0533.png",
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Prosta $l$ jest równoległa do prostej $y==\\frac{1}{2}x + 2$. Na prostej $l$ leży punkt $P=(0, 7)$. Zatem prosta $l$ ma postać",
+    "combinations": ["A) $y=2x$", "B) $y=2x + 7$", "C) $y=-\\frac{1}{2}x$", "D) $y=-\\frac{1}{2}x + 7$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Równanie $x(5x + 1) = 5x + 1$ ma dokładnie",
+    "combinations": ["A) jedno rozwiązanie: $x=1$", "B) dwa rozwiązania: $x=1, x=-1$", "C)dwa rozwiązania: $x=-\\frac{1}{5}, x=1$", "D)dwa rozwiązania: $x=\\frac{1}{5}, x=-1$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wiadomo, że $a = 3log_84$, zatem $a$ jest równe",
+    "combinations": ["A) $512$", "B) $81$", "C) $2$", "D) $64$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wpłacono 500 zł na kolatę dwuletnią, przy rocznej stopie $6%$ i kapitalizacji co pół roku. Po $2$ latach stan konta wynosi",
+    "combinations": ["A) $500 * (1,2)^2$", "B) $500 * (1,06)^2$", "C) $500*(1,06)^4$", "D) $500*(1,03)^4$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wskaż równanie prostej równoległej do prostej o równaniu $y=2x-7$.",
+    "combinations": ["A) $y=-2x+7$", "B) $y=-\\frac{1}{2}+5$", "C) $y=\\frac{1}{2}+2$", "D) $y=2x-1$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wyrażenie $2\\sqrt{50} - 4\\sqrt{8}$ zapisane w postaci jednej potęgi wynosi",
+    "combinations": ["A) $2^{\\frac{3}{2}}$", "B) $2^{\\frac{1}{2}}$", "C) $2^{-1}$", "D) $4^{\\frac{1}{2}}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Rozwiązaniem równania $\\frac{(x^2-2x-3)(x^2-9)}{x-1} = 0$ **nie jest** liczba",
+    "combinations": ["A) $-3$", "B) $-1$", "C) $1$", "D) $3$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Jeśli funkcja kwadratowa $f(x) = x^2 + 2x + 3a$ nie ma ani jednego miejsca zerowego, to liczba $a$ spełnia warunek",
+    "combinations": ["A) $a < -1$", "B) $-1 <= a < 0$", "C) $ 0 <= a < \\frac{1}{3}$", "D) $a > \\frac{1}{3}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Liczba $\\frac{4^5 * 5^4}{20^4}$ jest równa",
+    "combinations": ["A) $4^4$", "B) $20^16$", "C) $20^5$", "D) $4$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wynikiem działania $46^{-6}:7^{-15}$ jest",
+    "combinations": ["A) $7^{-21}$", "B) $7^3$", "C) $7^8$", "D) $7^{-21}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Objętość sześcianu jest równa $64$. Pole powierzchni całkowitej tego sześcianu jest równe",
+    "combinations": ["A) $512$", "B) $384$", "C) $96$", "D) $16$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Kąt $\\alpha$ jest ostry i speniona jest równość $3\\tg\\alpha = 2$. Wtedy wartość wyrażenia $\\sin\\alpha + \\cos\\alpha$ jest równa",
+    "combinations": ["A) $1$", "B) $\\frac{5\\sqrt{13}}{26}$", "C) $\\frac{5\\sqrt{13}}{13}$", "D) $\\sqrt{5}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "W trójkącie prostokątnym przeciwprostokątna ma długość $3$, a długość przyprostokątnej leżącej naprzeciwko kąta $\\alpha$ jest równa $\\sqrt{3}$. Zatem:",
+    "combinations": ["A) $\\alpha = 60\\degree$", "B) $\\alpha \\in (40\\degree, 60\\degree)$", "C)  $\\alpha \\in (30\\degree, 40\\degree)$", "D) $\\alpha = 30\\degree$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Punkt $S = (3, -1)$ jest środkiem odcinka $AB$ i $A = (-3, -5)$. Punkt $B$ ma współrzędne:",
+    "combinations": ["A) $(9,3)$", "B) $(9, -3)$", "C) $(-9, -3)$", "D) $(-9, 3)$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wykresem funkcji kwadratowej $f$ określonej wzorem $f(x) = x^2 + bx + c$ jest parabola, na której leży punkt $A = (0, -5)$. Osią symetrii tej paraboli jest prosta o równaniu $x=7$. Oblicz wartości współczynników $b$ i $c$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Znajdź wszystkie argumenty $x$ dla których funkcje $f(x) = x-3$ oraz $g(x) = -\\frac{2}{x}$ przyjmują tę samą wartość.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Ciąg $a_n$ jest geometryczny oraz $a_1 = 2, a_2 = 6$. Liczby $a_3, x, \\frac{x}{2}$ w podanej kolejności tworzą ciąg arytmetyczny. Oblicz $x$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Sześcian o krawędzi $6$ przecięto płaszczyzną zawierającą przekątną dolnej podstawy i jeden wierzchołek drugiej (patrz rysunek). Oblicz pole otrzymanego przekroju.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": "https://www.matemaks.pl/grafika/g0130.png",
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Proste $l$ i $k$ przecinają się w punkcie $A=(0, 4)$. Prosta $l$ wyznacza wraz z dodatnimi półosiami układu współrzędnych trójkąt o polu $8$, zaś prosta $k$ - trójkąt o polu $10$. Oblicz pole trójkąta, którego wierzchołkami są: punkt $A$ oraz punkty przecięcia prostych $l$ i $k$ z osią $Ox$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Na trójkącie o bokach długości $\\sqrt{7}, \\sqrt{8}, \\sqrt{15}$ opisano okrąg. Oblicz długość promienia tego okręgu.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Punkty $A=(-1,1), C=(1,9)$ są wierzchołkami trójkąta równoramiennego $ABC$, w którym $|AC| = |BC|$. Podstawa $AB$ tego trójkąta zawiera się w prostej o równaniu $y=\\frac{1}{2}x + \\frac{3}{2}$. Oblicz współrzędne wierzchołka $B$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Ciąg $(9, 18, x)$ jest geometryczny, a ciąg $(x, 30, y)$ jest arytmetyczny. Oblicz medianę liczb $10,x,y,12,12,18,30$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dane są dwa zbiory $A={100, 200, 300, 400, 500, 600, 700}, B={10,11,12,13,14,15,16}$. Z każdgo z nich losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia polegającego na tym, że suma wylosowanych liczb będzie podzielna przez $3$. Obliczone prawdopodobieństwo zapisz w postaci nieskracalnego ułamka zwykłego.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Liczbę \\sqrt{32} można przedstawić w postaci",
+    "combinations": ["A) $8\\sqrt{2}$", "B) $12\\sqrt{3}$", "C) $4\\sqrt{8}$", "D) $4\\sqrt{2}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Punkty $A=(-5, 2), B=(3, -2)$ są wierzchołkami trójkąta równobocznego $ABC$. Obwód tego trójkąta jest równy",
+    "combinations": ["A) $30$", "B) $4\\sqrt{5}$", "C) $12\\sqrt{5}$", "D) $36$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Kąt $\\alpha$ jest ostry i $\\sin\\alpha = \\frac{1}{4}$. Wówczas",
+    "combinations": ["A) $\\cos\\alpha < \\frac{3}{4}$", "B) $\\cos\\alpha = \\frac{3}{4}$", "C) $\\cos\\alpha = \\frac{\\sqrt{13}}{4}$", "D) $\\cos\\alpha > \\frac{\\sqrt{13}}{4}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dla $x = \\frac{2}{\\sqrt{2}} + 1$ oraz $y=\\sqrt{2}-1$ wartość wyrażenia $x^2 - 2xy + y^2$ jest równa",
+    "combinations": ["A) $4$", "B) $1$", "C) $\\sqrt{2}$", "D) $\\frac{1}{\\sqrt{2}}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wykresy funkcji liniowych $f(x) = \\frac{\\sqrt{5}}{3}x + 6$ oraz $g(x) = \\frac{5}{3\\sqrt{5}}x - \\frac{1}{6}$:",
+    "combinations": ["A) są prostopadłe", "B) przecinają się, ale nie sa prostopadłe", "C) pokrywają się", "D) są równoległe, ale nie pokrywają się"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dany jest ciąg $a_n$ określony wzorem $a_n = \\frac{5-2n}{6}$ dla $n >=1$. Ciąg ten jest",
+    "combinations": ["A) arytmetyczny i jego różnica wynosi $r = - \\frac{1}{3}$", "B) arytmetyczny i jego różnica wynosi $r = -2$", "C) geometryczny i jego iloraz jest równy $q = -\\frac{1}{3}$", "D) geometryczny i jego iloraz jest równy $q=\\frac{5}{6}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Kąt $\\alpha$ jest ostry i $\\cos\\alpha = \\sqrt{2}-1$. Wtedy wyrażenie $\\frac{1}{|\\sin^2\\alpha - 2\\cos\\alpha - 1|}$ jest równe",
+    "combinations": ["A) $-1$", "B) $0$", "C) $1$", "D) $\\frac{\\sqrt{2}}{2}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Różnica miar dwóch sąsiednich kątów wewnętrznych równoległoboku jest równa $30\\degree$. Kąt rozwarty tego równoległoboku ma miarę",
+    "combinations": ["A) $105\\degree$", "B) $115\\degree$", "C) $125\\degree$", "D) $135\\degree$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Liczba $(\\sqrt{3}-1)^2 + (\\sqrt{5}-1)(\\sqrt{5}+1)$ jest równa",
+    "combinations": ["A) $8 + \\sqrt{3}$", "B) $8 + 2\\sqrt{3}$", "C) $10 + 2\\sqrt{3}$", "D) $8 - 2\\sqrt{3}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dla każdej liczby rzeczywistej $x$ wyrażenie $x^6 - 2x^3 - 3$ jest równe",
+    "combinations": ["A) $(x^3+1)(x^2-3)$", "B) $(x^3-3)(x^3+1)$", "C) $(x^2+3)(x^4-1)$", "D) $(x^4+1)(x^2-3)$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wartość wyrażenia $2\\sin^218\\degree + \\sin^272\\degree + \\cos^218\\degree jest równa$",
+    "combinations": ["A) $0$", "B) $1$", "C) $2$", "D) $4$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Punkty $B=(-2,4), C=(5,1)$ są sąsiednimi wierzchołkami kwadratu $ABCD$. Pole tego kwadratu jest równe",
+    "combinations": ["A) $29$", "B) $40$", "C) $58$", "D) $74$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Jedną z liczb, które spełniają nierówność $-x^5 + x^3 - x < -2$, jest",
+    "combinations": ["A) $1$", "B) $-1$", "C) $2$", "D) $-2$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Na płaszczyźnie z układem współrzędnych proste $k$ i $l$ przecinają się pod kątem prostym w punkcie $A=(-2,4)$. Prosta $k$ jest określona równaniem $y=-\\frac{1}{4}x + \\frac{7}{2}$. Zatem prostą $l$ opisuje równanie",
+    "combinations": ["A) $y=\\frac{1}{4}x+\\frac{7}{2}$", "B) $y=-\\frac{1}{4}x+\\frac{7}{2}$", "C) $y=4x-12$", "D) $4x+12$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Rozwiąż równanie (x^3 + 27)(x^2 - 16) = 0",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Wyznacz równanie osi symetrii trójkąta o wierzchołkach $A = (-2,2), B = (6, -2), C=(10,6)$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Ze zbioru dwucyfrowych liczb naturalnych wybieramy losowo jedną liczbę. Prawdopodobieństwo otrzymania liczby podzielonej przez $30$ jest równe",
+    "combinations": ["A) $\\frac{1}{90}$", "B) $\\frac{2}{90}$", "C) $\\frac{3}{9}$", "D) $\\frac{10}{90}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Punkt $S=(4,1)$ jest środkiem odcinka $AB$, gdzie $A=(a, 0), B=(a+3, 2)$. Zatem",
+    "combinations": ["A) $a=0$", "B) $a=\\frac{1}{2}$", "C) $a=2$", "D) $a=\\frac{5}{2}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "W ciągu arytmetycznym $a_n$ dla $n >= 1$, $a_1 = 8$ oraz $a_1 + a_2 + a_3 = 33$. Wtedy suma $a_4 + a_5 + a_6$ jest równa",
+    "combinations": ["A) $44$", "B) $60$", "C) $69$", "D) $93$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Trzeci wyraz ciągu geometrycznego jest równy $4$, a piąty wyraz tego ciągu jest równy $1$. Pierwszy wyraz tego ciągu jest równy",
+    "combinations": ["A) $4$", "B) $4\\sqrt{2}$", "C) $16$", "D) $16\\sqrt{2}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Największą liczbą całkowitą spełniającą nierówność $(4+x)^2 < (x-4)(x+4)$ jest",
+    "combinations": ["A) $-5$", "B) $-4$", "C) $-3$", "D) $-2$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Licznik pewnego ułamka jest równy $6$. Jeżeli licznik tego ułamka zmniejszymy o $2$, a mianownik o $3$, to wartość tego ułamkka się nie zmieni. Jaki to ułamek?",
+    "combinations": ["A) $\\frac{6}{10}$", "B) $\\frac{6}{5}$", "C) $\\frac{6}{11}$", "D) $\\frac{6}{9}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dla każdej dodatniej liczby $a$ iloraz $\\frac{a^{-2,6}}{a^{1,3}}$ jest równy",
+    "combinations": ["A) $a^{-3,9}$", "B) $a^{-2}$", "C) $a^{-1,3}$", "D) $a^{1,3}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Dany jest rosnący ciąg arytmetyczny $a_n$, określony dla liczb naturalnych $n >= 1$, o wyrazach dodatnich. Jeśli $a_2 + a_9 = a_4 + a_k$, to $k$ jest równe",
+    "combinations": ["A) $8$", "B) $7$", "C) $6$", "D) $5$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Kąt $\\alpha$ jest ostry oraz $3\\sin\\alpha - \\sqrt{3}\\cos\\alpha = 0$. Wtedy",
+    "combinations": ["A) $\\tg\\alpha = \\frac{1}{3}$", "B) $\\tg\\alpha = 3$", "C) $\\tg\\alpha = \\sqrt{3}$", "D) $\\tg\\alpha = \\frac{\\sqrt{3]}{3}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "W ciągu geometrycznym $a_n$ dane są $a_2 = \\frac{\\sqrt{3}}{2}, a_3 = -\\frac{3}{2}$. Wtedy wyraz $a_1$ jest równy",
+    "combinations": ["A) $-\\frac{1}{2}$", "B) $\\frac{1}{2}$", "C) $-\\frac{\\sqrt{3}}{2}$", "D) $\\frac{\\sqrt{3}}{3}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Ile jest wszystkich czterocyfrowych liczb naturalnych mniejszych niż $2017$?",
+    "combinations": ["A) $2016$", "B) $2017$", "C) $1016$", "D) $1017$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Punkt $S=(2,7)$ jest środkiem odcinka $AB$, w którym $A=(-1,3)$. Punkt $B$ ma współrzędne:",
+    "combinations": ["A) $(5,11)$", "B) $(\\frac{1}{2}, 2)$", "C) $(-\\frac{3}{2}, -5)$", "D) $(3, 11)$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Liczby $x_1$ o $x_2$ są pierwiastkami równania $x^2 + 10x - 24 = 0$ i $x_1 < x_2$. Oblicz $2x_1 + x_2$",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Średnia arytmetyczna dziesięciu liczb $x, 3, 1, 4, 1, 5, 1, 4, 1, 5$ jest równa $3$. Wtedy",
+    "combinations": ["A) $x=2$", "B) $x=3$", "C) $x=4$", "D) $x=5$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+   {
+    "description": "Największa liczba naturalna $n$ spełniająca nierówność $n < 2\\pi -1$ to:",
+    "combinations": ["A) $3$", "B) $5$", "C) $6$", "D) $0$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+   },
+  {
+    "description": "Dany jest ciąg $a_n$ określony wzorem $a_n = \\frac{2^n * n^2}{1 - n^2}$ dla $n >=1$. Wówczas wyraz $a_3$ tego ciągu jest równy",
+    "combinations": ["A) $-7,2$", "B) $7,2$", "C) $-9$", "D) $9$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Dane są liczby $x=2 + \\sqrt{5}, y = 3 - \\sqrt{5}$. Iloraz $\\frac{x}{y}$ jest równy",
+    "combinations": ["A) $8\\sqrt{5}$", "B) $\\frac{7\\sqrt{5} - 9}{4}$", "C) $\\frac{-5\\sqrt{5}}{2}$", "D) $\\frac{11}{4} + \\frac{5}{4}\\sqrt{5}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Cosinus kąta ostrego $\\alpha$ jest równy $\\frac{12}{13}$. Wtedy ",
+    "combinations": ["A) $\\sin\\alpha = \\frac{13}{12}$", "B) $\\sin\\alpha = \\frac{1}{13}$", "C) $\\sin\\alpha = \\frac{5}{13}$", "D) $\\sin\\alpha = \\frac{25}{169}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Proste $l$ i $k$ są prostopadłe i $l:2x-9y+6=0, k:y=ax+b$, kiedy",
+    "combinations": ["A) $a = -\\frac{2}{9}$", "B) $a = \\frac{2}{9}$", "C) $a = -\\frac{9}{2}$", "D) $a = \\frac{9}{2}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Ze zbioru liczb ${1, 2, 3, 4, 5, 6, 7}$ losujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz prawdopodobieństwo zdarzenia $A$, polegającego na wylosowaniu liczb, których iloczyn jest podzielny przez $6$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Narysuj wykres funkcji $f(x) = 2^x - 3$. Podaj zbiór wartości tej funkcji.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Wszystkich liczb całkowitych __dodatnich__ spełniających nierówność $|x+5| < 15$ jest",
+    "combinations": ["A) $9$", "B) $10$", "C) $20$", "D) $21$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Wykaż, że dla każdej liczby całkowitej $k$ reszta z dzielenia liczby $49k^2 + 7k -2$ przez $7$ jest równa $5$.",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Klient wpłacił do banku $30 000$ zł na lokatę dwuletnią. Po kazdym rocznym okresie oszczędzania bank dolicza odsetki w wysokości $7%$ od kwoty bieżącego kapitału znajdującego się na lokacie. Po dwóch latach oszczędznaia łączna wartość doliczonych odsetek na tej lokacie (bez uwzględnienia podatków) jest równa",
+    "combinations": ["A) $2100$ zł", "B) $2247$ zł", "C) $4200$ zł", "D) $4347$ zł"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Liczba $log_2\\frac{1}{8} + log_24$ jest równa",
+    "combinations": ["A) $-1$", "B) $\\frac{1}{2}$", "C) $2$", "D) $5$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Liczba $(1 + \\sqrt{5})^2 - (1 - \\sqrt{5})^2$ jest równa",
+    "combinations": ["A) $0$", "B) $-10$", "C) $4\\sqrt{5}$", "D) $2 + 2\\sqrt{5}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Dla każdej liczby rzeczywistej $x$ różnej od $0$ i $2$ wyrażenie $\\frac{x^2+x}{(x-2)^2} * \\frac{x-2}{x}$ jest równe",
+    "combinations": ["A) $\\frac{x^2+1}{x-2}$", "B) $\\frac{x+1}{2}$", "C) $\\frac{x^2}{(x-2)^2}$", "D) $\\frac{x+1}{x-2}$"],
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Rozwiąż nierówność: $x(2x-1) < 2x$",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  },
+  {
+    "description": "Rozwiąż równanie: $x^3 + 4x^2 -9x -36 = 0$",
+    "combinations": null,
+    "answer": "",
+    "photoUrl": null,
+    "tags": null,
+    "answerUrl": null
+  }
   ]
   
