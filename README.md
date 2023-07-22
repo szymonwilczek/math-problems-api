@@ -2,7 +2,7 @@
 
 A free REST API for random math excercises.
 
-Built Express.js and hosted on Vercel.
+Built with Express.js and hosted on Vercel.
 
 ## Usage
 
