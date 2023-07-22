@@ -8,9 +8,21 @@ Built with Express.js and hosted on Vercel.
 
 ### `GET` [https://math-api-azure.vercel.app/random-problem](https://math-api-azure.vercel.app/random-problem)
 
-```json
+```js
 {
-  {"zadanie":{"description":"Punkt $S=(2,7)$ jest środkiem odcinka $AB$, w którym $A=(-1,3)$. Punkt $B$ ma współrzędne:","combinations":["A) $(5,11)$","B) $(\\frac{1}{2}, 2)$","C) $(-\\frac{3}{2}, -5)$","D) $(3, 11)$"],"answer":"","photoUrl":null,"tags":null,"answerUrl":null}}
+  {"zadanie":{
+// Description of problem
+"description":"Punkt $S=(2,7)$ jest środkiem odcinka $AB$, w którym $A=(-1,3)$. Punkt $B$ ma współrzędne:",
+// Answers (if ABCD-type of question)
+"combinations":["A) $(5,11)$","B) $(\\frac{1}{2}, 2)$","C) $(-\\frac{3}{2}, -5)$","D) $(3, 11)$"],
+// Answer to problem
+"answer":"",
+// photo (for example for geometric problems)
+"photoUrl":null,
+// I'm using them to sort problems on website by tags
+"tags":null,
+// Link to answer if answer is for example image or video
+"answerUrl":null}}
 }
 ```
 
