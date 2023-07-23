@@ -32,6 +32,34 @@ or
 
 It is allowing you to get **all** of available problems.
 
+or
+
+### `GET` [https://math-api-azure.vercel.app/problems?types=type](https://math-api-azure.vercel.app/problems?types=type)
+
+It is allowing you to get only the problem of specified type:
+| type | description |
+| --- | --- |
+| `otwarte` | open problem (without ABCD-type of answers) |
+| `zamkniete` | closed problem (ABCD-type of answers) |
+
+or
+
+### `GET` [https://math-api-azure.vercel.app/problems?count=count](https://math-api-azure.vercel.app/problems?count=count)
+
+It is allowing you to get only the specified number of problems.
+
+for example:
+[https://math-api-azure.vercel.app/problems?count=5](https://math-api-azure.vercel.app/problems?count=5)
+will return 5 problems.
+
+You can also combine these parameters:
+
+### `GET` [https://math-api-azure.vercel.app/problems?count=count&types=type](https://math-api-azure.vercel.app/problems?count=count&types=type)
+
+For example:
+[https://math-api-azure.vercel.app/problems?count=5&types=zamkniete](https://math-api-azure.vercel.app/problems?count=5&types=zamkniete)
+will return 5 closed problems.
+
 ## Development
 
 For self-hosting or modifying the API, you can clone this repository and run:
