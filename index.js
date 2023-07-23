@@ -1,11 +1,9 @@
 const express = require("express");
 const app = express();
-const cors = require("cors"); // Dodajemy obsługę CORS dla zapytań z innych domen
+const cors = require("cors"); 
 
-// Dane z pliku JSON - zakładając, że są w odpowiednim formacie
 const problems = require("./problems.json");
 
-// Dodajemy middleware do obsługi zapytań CORS
 app.use(cors());
 
 // Endpoint do pobierania losowego zadania
@@ -21,7 +19,40 @@ app.get("/random-problem", (req, res) => {
 
 app.get("/problems", (req, res) => {
   try {
-    res.json({ zadania: problems });
+    const typesParam = req.query.types;
+    const countParam = req.query.count;
+
+    if (typesParam && typesParam.toLowerCase() === "otwarte") {
+      let otwarteProblems = problems.filter(
+        (problem) => problem.type === "otwarte"
+      );
+
+      if (countParam) {
+        const count = parseInt(countParam);
+        otwarteProblems = otwarteProblems.slice(0, count);
+      }
+
+      res.json({ zadania: otwarteProblems });
+    } else if (typesParam && typesParam.toLowerCase() === "zamkniete") {
+      let zamknieteProblems = problems.filter(
+        (problem) => problem.type === "zamkniete"
+      );
+
+      if (countParam) {
+        const count = parseInt(countParam);
+        zamknieteProblems = zamknieteProblems.slice(0, count);
+      }
+
+      res.json({ zadania: zamknieteProblems });
+    } else {
+      if (countParam) {
+        const count = parseInt(countParam);
+        const allProblems = problems.slice(0, count);
+        res.json({ zadania: allProblems });
+      } else {
+        res.json({ zadania: problems });
+      }
+    }
   } catch (error) {
     res.status(500).json({ error: "Błąd serwera" });
   }
@@ -31,7 +62,6 @@ app.get("/", (req, res) => {
   res.send("Hello world");
 });
 
-// Ustawiamy port, na którym będzie nasłuchiwał serwer
 const port = 3333;
 app.listen(port, () => {
   console.log(`Serwer działa na http://localhost:${port}`);
