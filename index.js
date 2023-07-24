@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const cors = require("cors"); 
+const cors = require("cors");
 
 const problems = require("./problems.json");
 
@@ -21,6 +21,37 @@ app.get("/problems", (req, res) => {
   try {
     const typesParam = req.query.types;
     const countParam = req.query.count;
+    const maturaParam = req.query.matura;
+
+    problems.sort(() => Math.random() - 0.5);
+
+    if (maturaParam === true || maturaParam === "true") {
+      let easyProblems = problems.filter(
+        (problem) => problem.difficulty === "easy"
+      );
+      let mediumProblems = problems.filter(
+        (problem) => problem.difficulty === "medium"
+      );
+      let hardProblems = problems.filter(
+        (problem) => problem.difficulty === "hard"
+      );
+
+      const easyCount = 7;
+      const mediumCount = 8;
+      const hardCount = 5;
+
+      easyProblems = easyProblems.slice(0, easyCount);
+      mediumProblems = mediumProblems.slice(0, mediumCount);
+      hardProblems = hardProblems.slice(0, hardCount);
+
+      const maturaProblems = [
+        ...easyProblems,
+        ...mediumProblems,
+        ...hardProblems,
+      ];
+
+      return res.json({ zadania: maturaProblems });
+    }
 
     if (typesParam && typesParam.toLowerCase() === "otwarte") {
       let otwarteProblems = problems.filter(
