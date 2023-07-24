@@ -5,7 +5,8 @@
       "answer": "B. $c=52$",
       "type":"zamkniete",
       "difficulty": "easy",
-      "answerUrl": null
+      "answerUrl": null,
+      "uid": "zad-1"
     },
     {
       "description": "Suma $log_816 + 1$ jest równa",
@@ -14,7 +15,8 @@
       "photoUrl": null,
       "type": "zamkniete",
       "difficulty": "easy",
-      "answerUrl": null
+      "answerUrl": null,
+      "uid": "zad-2"
     },
    {
     "description": "Udowodnij, że każda liczba całkowita $k$, która przy dzieleniu przez 7 daje resztę 2, ma tę własność, że reszta z dzielenia liczby $3k^2$ przez $7$ jest równa $5$.",
@@ -24,7 +26,8 @@
     "tags": null,
     "type": "otwarte",
     "difficulty": "easy",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-3"
    },
    {
     "description": "Liczba $3^{\\frac{9}{4}}$ jest równa",
@@ -34,7 +37,8 @@
     "tags": null,
     "type": "zamkniete",
     "difficulty": "easy",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-4"
    },
    {
     "description": "Wskaż równość prawdziwą",
@@ -43,7 +47,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "easy",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-5"
    },
    {
     "description": "W klasie jest cztery razy więcej chłopców niż dziewcząt. Ile procent wszystkich uczniów tej klasy stanowią dziewczęta?",
@@ -52,7 +57,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "easy",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-6"
    },
    {
     "description": "Zbiorem rozwiązań nierówności $x^2 > 4x$ jest",
@@ -61,7 +67,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-7"
    },
    {
     "description": "Liczba wszystkich dodatnich liczb czterocyfrowych parzystych, w których zapisie nie występują cyfry $0$ i $2$, jest równa",
@@ -70,7 +77,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-8"
    },
    {
     "description": "Wskaż równanie prostej prostopadłej do prostej o równaniu $2x - 4y = 5$",
@@ -79,7 +87,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-9"
    },
    {
     "description": "Liczba $a$ stanowi $80%$ liczby $b$. Zatem:",
@@ -88,7 +97,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-10"
    },
    {
     "description": "W trójkącie prostokątnym długość jednej z przyprostokątnych jest równa 7, zaś długość przeciwprostokątnej jest równa 8. Zatem tangens mniejszego kąta ostreggo w tym trójkącie jest równy:",
@@ -97,7 +107,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-11"
    },
    {
     "description": "Funkcja $W$ jest określona wzorem $W(x) = 3x^4 - bx - 2a$ dla wszystkich liczb rzeczywistych. Równość $W(-1) + W(1) = 0$ zachodzi, gdy",
@@ -106,7 +117,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-12"
    },
    {
     "description": "Dane są liczby $x = 2 + \\sqrt{5}$ i $y = 3 - \\sqrt{5}$. Iloraz $\\frac{x}{y}$ można zapisać w postaci:",
@@ -115,7 +127,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-13"
    },
    {
     "description": "Na rysunku przedstawiony jest wykres funkcji $y=f(x)$. Zbiorem wartości tej funkcji jest:",
@@ -124,7 +137,8 @@
     "photoUrl": "",
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-14"
    },
    {
     "description": "Ile jest liczb czterocyfrowych, takich, że suma cyfr danej liczby jest nie większa niż 3?",
@@ -133,7 +147,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "medium",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-15"
    },
    {
     "description": "Rysunek przedstawia wykres funkcji $y=f(x)$. W jakim przedziale funkcja jest malejąca?",
@@ -142,7 +157,8 @@
     "photoUrl": "https://www.matemaks.pl/grafika/g0238.png",
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-16"
    },
    {
     "description": "Liczba $9^9 * 81^2$ jest równa",
@@ -151,7 +167,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-17"
    },
    {
     "description": "Kąt $\\alpha$ jest kątem ostrym i $tg\\alpha = \\frac{1}{2}$. Jaki warunek spełnia kąt $\\alpha$?",
@@ -160,7 +177,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-18"
    },
    {
     "description": "Na wykresie funkcji liniowej określonej wzorem $f(x) = (m-1)x + 3$ leży punkt $S = (5,2)$. Zatem",
@@ -169,7 +187,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-19"
    },
    {
     "description": "Liczba $\\frac{2^{50}*3^{40}}{36^{10}}$",
@@ -178,7 +197,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-20"
    },
    {
     "description": "Punkty $E = (7, 1)$ i $F = (9, 7)$ to środki boków, odpowiednio $AB$ i $BC$ kwadratu $ABCD$. Przekątna tego kwadratu ma długość",
@@ -187,7 +207,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-21"
    },
    {
     "description": "Liczba $log_55 - log_5125$ jest równa",
@@ -196,7 +217,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-22"
    },
    {
     "description": "Ciąg $a_n$ jest określony wzorem $a_n = \\frac{24-4n}{n}$ dla $n$ większego lub równego 1. Liczba wszystkich całkowitych nieujemnych wyrazów tego ciągu jest równa",
@@ -205,7 +227,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-23"
    },
    {
     "description": "Nierówność $\\frac{1}{3} - \\frac{1}{2}x < \\frac{1}{6}$ jest równoważna nierówności",
@@ -214,7 +237,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak"
+    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "uid": "zad-24"
    },
    {
     "description": "Kąt $\\alpha$ jest ostry i $(\\sin\\alpha + \\cos\\alpha)^2 = \\frac{3}{2}$. Oblicz wartość wyrażenia $\\sin\\alpha * \\cos\\alpha$.",
@@ -222,7 +246,8 @@
     "answer": "",
     "photoUrl": null,
     "tags": null,
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-25"
    },
    {
     "description": "Rozwiąż nierówność $-2x^2 + 3x < 4$.",
@@ -230,7 +255,8 @@
     "answer": "",
     "photoUrl": null,
     "tags": null,
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-26"
    },
    {
     "description": "Wykaż, że dla każdej liczby $a > 0$ i dla każdej liczby $b > 0$ prawdziwa jest nierówność $\\frac{1}{a} + \\frac{1}{b} \\geqslant \\frac{4}{a+b}$",
@@ -238,7 +264,8 @@
     "answer": "",
     "photoUrl": null,
     "tags": null,
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-27"
    },
    {
     "description": "Wykaż, że przekątna prostopadłościanu o krawędziach długości $a, b, c$ ma długość $\\sqrt{a^2 + b^2 + c^2}$",
@@ -246,7 +273,8 @@
     "answer": "",
     "photoUrl": null,
     "tags": null,
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-28"
    },
    {
     "description": "W układzie współrzędnych punkty $A = (4, 3)$ i $B = (10, 5)$ są wierzchołkami trókąta $ABC$. Wierzchołek $C$ leży na prostej o równaniu $y=2x+3$. Oblicz współrzędne punktu $C$, dla którego kąt $ABC$ jest prosty.",
@@ -254,7 +282,8 @@
     "answer": "",
     "photoUrl": null,
     "tags": null,
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-29"
    },
    {
     "description": "Liczba $10$ jest przybliżeniem z nadmiarem liczby $a$. Błąd bezwzględny tego przybliżenia wynosi $0,4$. Błąd względny tego przybliżenia to:",
@@ -263,7 +292,8 @@
     "photoUrl": null,
     "tags": null,
     "difficulty": "easy",
-    "answerUrl": null
+    "answerUrl": null,
+    "uid": "zad-30"
    },
    {
     "description": "Dane są punkty $A = (4, 1), B = (1, 3), C = (4, -1)$. Pole trójkąta $ABC$ jest równe",
