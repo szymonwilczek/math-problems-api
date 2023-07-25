@@ -16,13 +16,18 @@ Built with Express.js and hosted on Vercel.
 // Answers (if ABCD-type of question)
 "combinations":["A) $(5,11)$","B) $(\\frac{1}{2}, 2)$","C) $(-\\frac{3}{2}, -5)$","D) $(3, 11)$"],
 // Answer to problem
-"answer":"",
-// photo (for example for geometric problems)
+"answer":"A) $(5,11)$",
+// Photo (for example for geometric problems)
 "photoUrl":null,
+// Type of problem (ABCD-type of - zamkniete(closed) or not ABCD-type - otwarte (open))
+"type": "zamkniete/otwarte",
 // I'm using them to sort problems on website by tags
-"tags":null,
+"tags":["for example: PLANIMETRIA"],
 // Link to answer if answer is for example image or video
-"answerUrl":null}}
+"answerUrl":null,
+// Unical id, I'm using it to better know and fix specified problems
+"uid": "zad-1-plan"
+}}
 }
 ```
 
@@ -52,13 +57,19 @@ for example:
 [https://math-api-azure.vercel.app/problems?count=5](https://math-api-azure.vercel.app/problems?count=5)
 will return 5 problems.
 
-You can also combine these parameters:
+## You can also combine these parameters:
 
 ### `GET` [https://math-api-azure.vercel.app/problems?count=count&types=type](https://math-api-azure.vercel.app/problems?count=count&types=type)
 
 For example:
 [https://math-api-azure.vercel.app/problems?count=5&types=zamkniete](https://math-api-azure.vercel.app/problems?count=5&types=zamkniete)
 will return 5 closed problems.
+
+or
+
+### `GET` [https://math-api-azure.vercel.app/problems?matura=true](https://math-api-azure.vercel.app/problems?matura=true)
+
+Returns 7 easy problems, 8 medium problems and 5 hard ones. **You cannot combine any parameter with this one!**
 
 ## Development
 
