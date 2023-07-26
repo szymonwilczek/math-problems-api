@@ -6,7 +6,7 @@
       "type":"zamkniete",
       "difficulty": "easy",
       "tags": ["Rzeczywiste"],
-      "answerUrl": null,
+      "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c1337d06c8e607d0147bfc/main.mp4",
       "uid": "zad-1-in"
     },
     {
@@ -17,7 +17,7 @@
       "type": "zamkniete",
       "tags": ["Logarytmy"],
       "difficulty": "easy",
-      "answerUrl": null,
+      "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131ac06c8e607d014664a/main.mp4",
       "uid": "zad-2-log"
     },
    {
@@ -28,7 +28,7 @@
     "tags": ["Dowodowe"],
     "type": "otwarte",
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131ac06c8e607d014664b/main.mp4",
     "uid": "zad-3-dow"
    },
    {
@@ -44,7 +44,7 @@
     "tags": ["Rzeczywiste"],
     "type": "zamkniete",
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131acd635271420a274c7/main.mp4",
     "uid": "zad-4-in"
    },
    {
@@ -55,7 +55,7 @@
     "photoUrl": "https://i.imgur.com/KXZOLnE.jpg",
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131ac06c8e607d0146649/main.mp4",
     "uid": "zad-5-in"
    },
    {
@@ -66,7 +66,7 @@
     "type": "zamkniete",
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131ad06c8e607d014666f/main.mp4",
     "uid": "zad-6-in"
    },
    {
@@ -77,7 +77,7 @@
     "photoUrl": "https://i.imgur.com/KXZOLnE.jpg",
     "tags": ["Kwadratowa"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131b7d635271420a27609/main.mp4",
     "uid": "zad-7-kwad"
    },
    {
@@ -88,7 +88,7 @@
     "type": "zamkniete",
     "tags": ["Kombinatoryka"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131b806c8e607d014674f/main.mp4",
     "uid": "zad-8-komb"
    },
    {
@@ -99,7 +99,7 @@
     "type": "zamkniete",
     "tags": ["Liniowa"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131b8d635271420a27617/main.mp4",
     "uid": "zad-9-lin"
    },
    {
@@ -110,7 +110,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131b906c8e607d0146766/main.mp4",
     "uid": "zad-10-in"
    },
    {
@@ -121,7 +121,7 @@
     "type": "zamkniete",
     "tags": ["Trygonometria", "Planimetria"],
     "difficulty": "hard",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131b9d635271420a27645/main.mp4",
     "uid": "zad-11-tryg"
    },
    {
@@ -132,7 +132,7 @@
     "photoUrl": null,
     "tags": ["Wielomiany"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131b9d635271420a2765b/main.mp4",
     "uid": "zad-12-wiel"
    },
    {
@@ -140,7 +140,7 @@
     "combinations": ["A. $8\\sqrt{5}$", "B. $\\frac{7\\sqrt{5} - 9}{4}$", "C. $\\frac{-5\\sqrt{5}}{2}$", "D. $\\frac{11}{4} + \\frac{5}{4}\\sqrt{5}$"],
     "answer": "D. $\\frac{11}{4} + \\frac{5}{4}\\sqrt{5}$",
     "type": "zamkniete",
-    "photoUrl": null,
+    "photoUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131c106c8e607d014687f/main.mp4",
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
     "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
@@ -151,10 +151,10 @@
     "combinations": ["A. $[-4, 3]$", "B. $[-4,-1] \\cup [1, 3]$", "C. $[-4, -1] \\cup (1, 3]$", "D. $[-5, 6]$"],
     "answer": "C. $[-4, -1] \\cup (1, 3]$",
     "type": "zamkniete",
-    "photoUrl": "https://www.matemaks.pl/grafika/g0226.png",
+    "photoUrl": null,
     "tags": ["Planimetria"],
     "difficulty": "easy",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131c106c8e607d0146876/main.mp4",
     "uid": "zad-14-plan"
    },
    {
@@ -165,7 +165,7 @@
     "photoUrl": null,
     "tags": ["Kombinatoryka"],
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131c1d635271420a2777b/main.mp4",
     "uid": "zad-15-komb"
    },
    {
@@ -176,7 +176,7 @@
     "photoUrl": "https://www.matemaks.pl/grafika/g0238.png",
     "tags": ["Planimetria"],
     "difficulty": "easy",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c1345206c8e607d01485ce/main.mp4",
     "uid": "zad-16-plan"
    },
    {
@@ -187,7 +187,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131c106c8e607d01468a5/main.mp4",
     "uid": "zad-17-in"
    },
    {
@@ -209,7 +209,7 @@
     "photoUrl": null,
     "tags": ["Liniowa"],
     "difficulty": "easy",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131acd635271420a274c5/main.mp4",
     "uid": "zad-19-lin"
    },
    {
@@ -220,7 +220,7 @@
     "tags": ["Rzeczywiste"],
     "difficulty": "medium",
     "type": "zamkniete",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c134d8d635271420a29ef7/main.mp4",
     "uid": "zad-20-in"
    },
    {
