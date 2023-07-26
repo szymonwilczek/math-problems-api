@@ -198,7 +198,7 @@
     "tags": ["Trygonometria, Matura 2015"],
     "difficulty": "easy",
     "type": "zamkniete",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "",
     "uid": "zad-18-tryg"
    },
    {
@@ -230,7 +230,7 @@
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e92d635271420a6a000/main.mp4",
     "uid": "zad-21-geoman"
    },
    {
@@ -240,7 +240,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9206c8e607d01893bf/main.mp4",
     "uid": "zad-22-in"
    },
    {
@@ -250,7 +250,7 @@
     "photoUrl": null,
     "tags": ["Ciągi"],
     "difficulty": "medium",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9206c8e607d01893bd/main.mp4",
     "uid": "zad-23-ciag"
    },
    {
@@ -260,7 +260,7 @@
     "photoUrl": null,
     "tags": ["Nierówności"],
     "difficulty": "hard",
-    "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e92d635271420a6a001/main.mp4",
     "uid": "zad-24-nier"
    },
    {
@@ -270,7 +270,7 @@
     "photoUrl": null,
     "tags": ["Trygonometria"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9206c8e607d01893c0/main.mp4",
     "uid": "zad-25-tryg"
    },
    {
@@ -280,7 +280,7 @@
     "photoUrl": null,
     "tags": ["Kwadratowa"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9306c8e607d01893f7/main.mp4",
     "uid": "zad-26-kwad-nier"
    },
    {
@@ -290,7 +290,7 @@
     "photoUrl": null,
     "tags": ["Dowodowe"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9e06c8e607d01894c8/main.mp4",
     "uid": "zad-27-dowod"
    },
    {
@@ -300,7 +300,7 @@
     "photoUrl": null,
     "tags": ["Dowodowe"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9ed635271420a6a0f5/main.mp4",
     "uid": "zad-28-dowod"
    },
    {
@@ -310,7 +310,7 @@
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9e06c8e607d01894d9/main.mp4",
     "uid": "zad-29-geoman"
    },
    {
@@ -320,7 +320,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9f06c8e607d01894f2/main.mp4",
     "uid": "zad-30-in"
    },
    {
@@ -330,7 +330,7 @@
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9f06c8e607d0189503/main.mp4",
     "uid": "zad-31-geoman"
    },
    {
@@ -340,7 +340,7 @@
     "photoUrl": null,
     "tags": "Geometria analityczna",
     "difficulty": "medium",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9fd635271420a6a138/main.mp4",
     "uid": "zad-32-geoman"
    },
    {
@@ -350,7 +350,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9f06c8e607d0189510/main.mp4",
     "uid": "zad-33-in"
    },
    {
@@ -359,9 +359,9 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Planimetria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ead06c8e607d0189655/main.mp4",
     "difficulty": "easy",
-    "uid": "zad-34-plan"
+    "uid": "zad-34-stereom"
    },
    {
     "description": "Kąt ostry $\\alplha$ jest ostry i $\\sin\\alpha = \\frac{7}{13}$. Wtedy $\\tg\\alpha$ jest równy",
@@ -369,7 +369,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Trygonometria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eadd635271420a6a29e/main.mp4",
     "difficulty": "easy",
     "uid": "zad-35-tryg"
    },
@@ -379,7 +379,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Stereometria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eadd635271420a6a2b7/main.mp4",
     "difficulty": "easy",
     "uid": "zad-36-stereom"
    },
@@ -389,7 +389,7 @@
     "answer": "",
     "photoUrl": "https://www.matemaks.pl/grafika/g0128.png",
     "tags": ["Planimetria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ead06c8e607d0189662/main.mp4",
     "difficulty": "easy",
     "uid": "zad-37-plan"
    },
@@ -399,7 +399,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eaed635271420a6a2ce/main.mp4",
     "difficulty": "easy",
     "uid": "zad-38-in"
    },
@@ -409,7 +409,7 @@
     "answer": "",
     "photoUrl": "https://www.matemaks.pl/grafika/g0533.png",
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb4d635271420a6a380/main.mp4",
     "difficulty": "medium",
     "uid": "zad-39-in"
    },
@@ -419,7 +419,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Liniowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb406c8e607d01896fa/main.mp4",
     "difficulty": "medium",
     "uid": "zad-40-lin"
    },
@@ -429,7 +429,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Kwadratowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb4d635271420a6a38b/main.mp4",
     "difficulty": "medium",
     "uid": "zad-41-kwad"
    },
@@ -438,10 +438,10 @@
     "combinations": ["A. $512$", "B. $81$", "C. $2$", "D. $64$"],
     "answer": "",
     "photoUrl": null,
-    "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "tags": ["Logarytmy"],
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb506c8e607d0189713/main.mp4",
     "difficulty": "easy",
-    "uid": "zad-42-in"
+    "uid": "zad-42-log"
    },
    {
     "description": "Wpłacono 500 zł na kolatę dwuletnią, przy rocznej stopie $6 \\%$ i kapitalizacji co pół roku. Po $2$ latach stan konta wynosi",
@@ -449,7 +449,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Procent składany"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb506c8e607d0189724/main.mp4",
     "difficulty": "easy",
     "uid": "zad-43-proc"
    },
@@ -459,7 +459,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Liniowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb5d635271420a6a3a5/main.mp4",
     "difficulty": "easy",
     "uid": "zad-44-lin"
    },
@@ -470,7 +470,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb9d635271420a6a45a/main.mp4",
     "difficulty": "easy",
     "uid": "zad-45-in"
    },
@@ -481,7 +481,7 @@
     "photoUrl": null,
     "tags": null,
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb906c8e607d01897da/main.mp4",
     "difficulty": "easy",
     "uid": "zad-46-in"
    },
@@ -492,7 +492,7 @@
     "photoUrl": null,
     "tags": ["Kwadratowa"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eb9d635271420a6a467/main.mp4",
     "difficulty": "medium",
     "uid": "zad-47-kwad"
    },
@@ -503,7 +503,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eba06c8e607d01897e7/main.mp4",
     "difficulty": "easy",
     "uid": "zad-48-in"
    },
@@ -514,7 +514,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebe06c8e607d0189894/main.mp4",
     "difficulty": "easy",
     "uid": "zad-49-in"
    },
@@ -525,7 +525,7 @@
     "photoUrl": null,
     "tags": ["Stereometria"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebe06c8e607d0189879/main.mp4",
     "difficulty": "easy",
     "uid": "zad-50-stereom"
    },
@@ -536,7 +536,7 @@
     "photoUrl": null,
     "tags": ["Trygonometria"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebe06c8e607d0189884/main.mp4",
     "difficulty": "medium",
     "uid": "zad-51-tryg"
    },
@@ -545,10 +545,10 @@
     "combinations": ["A. $\\alpha = 60\\degree$", "B. $\\alpha \\in (40\\degree, 60\\degree)$", "C.  $\\alpha \\in (30\\degree, 40\\degree)$", "D. $\\alpha = 30\\degree$"],
     "answer": "",
     "photoUrl": null,
-    "tags": ["Planimetria"],
-    "answerUrl": null,
+    "tags": ["Trygonometria"],
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebed635271420a6a510/main.mp4",
     "difficulty": "hard",
-    "uid": "zad-52-plan"
+    "uid": "zad-52-tryg"
    },
    {
     "description": "Punkt $S = (3, -1)$ jest środkiem odcinka $AB$ i $A = (-3, -5)$. Punkt $B$ ma współrzędne:",
@@ -556,7 +556,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebfd635271420a6a524/main.mp4",
     "difficulty": "medium",
     "uid": "zad-53-geoman"
    },
@@ -566,7 +566,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Kwadratowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebf06c8e607d01898b0/main.mp4",
     "difficulty": "hard",
     "uid": "zad-54-kwad"
    },
@@ -576,7 +576,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Liniowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ec7d635271420a6a61e/main.mp4",
     "difficulty": "medium",
     "uid": "zad-55-lin"
    },
@@ -586,7 +586,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Ciągi"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ec7d635271420a6a628/main.mp4",
     "difficulty": "hard",
     "uid": "zad-56-ciag"
    },
@@ -596,7 +596,7 @@
     "answer": "",
     "photoUrl": "https://www.matemaks.pl/grafika/g0130.png",
     "tags": ["Stereometria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ec706c8e607d01899bf/main.mp4",
     "difficulty": "hard",
     "uid": "zad-57-stereom"
    },
@@ -616,7 +616,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Planimetria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ec7d635271420a6a635/main.mp4",
     "difficulty": "medium",
     "uid": "zad-59-plan"
    },
@@ -636,8 +636,8 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Ciągi", "Statystyka"],
-    "answerUrl": null,
-    "difficulty": "hard",
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ec806c8e607d01899d2/main.mp4",
+    "difficulty": "easy",
     "uid": "zad-61-ciag"
    },
    {
@@ -656,7 +656,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ec8d635271420a6a66e/main.mp4",
     "difficulty": "easy",
     "uid": "zad-63-in"
    },
@@ -666,7 +666,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eced635271420a6a718/main.mp4",
     "difficulty": "medium",
     "uid": "zad-64-geoman"
    },
@@ -676,7 +676,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Trygonometria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eced635271420a6a724/main.mp4",
     "difficulty": "medium",
     "uid": "zad-65-tryg"
    },
@@ -686,7 +686,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eced635271420a6a72e/main.mp4",
     "difficulty": "medium",
     "uid": "zad-66-in"
    },
