@@ -21,7 +21,6 @@ app.get("/random-problems", (req, res) => {
   try {
     let allProblems = problems.sort(() => Math.random() - 0.5);
 
-    //random number of problems in range 5-10
     const count = Math.floor(Math.random() * (10 - 5 + 1) + 5);
     allProblems = allProblems.slice(0, count);
 
@@ -36,7 +35,7 @@ app.get("/problems", (req, res) => {
     const typesParam = req.query.types;
     const countParam = req.query.count;
     const maturaParam = req.query.matura;
-    const difficultyParam = req.query.difficulty; // Nowy parametr
+    const difficultyParam = req.query.difficulty;
 
     problems.sort(() => Math.random() - 0.5);
 
