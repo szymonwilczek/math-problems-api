@@ -1,6 +1,6 @@
 [
     {
-      "description": "Jeżeli liczba $78$ jest o $50%$ większa od liczby $c$, to",
+      "description": "Jeżeli liczba $78$ jest o $50 \\%$ większa od liczby $c$, to",
       "combinations": ["A. $c=60$", "B. $c=52$", "C. $c=48$", "D. $c=39$"],
       "answer": "B. $c=52$",
       "type":"zamkniete",
@@ -60,8 +60,8 @@
    },
    {
     "description": "W klasie jest cztery razy więcej chłopców niż dziewcząt. Ile procent wszystkich uczniów tej klasy stanowią dziewczęta?",
-    "combinations": ["A. $4%$", "B. $5%$", "C. $20%$", "D. $25%$"],
-    "answer": "C. $20%$",
+    "combinations": ["A. $4 \\%$", "B. $5 \\%$", "C. $20 \\%$", "D. $25 \\%$"],
+    "answer": "C. $20 \\%$",
     "photoUrl": null,
     "type": "zamkniete",
     "tags": ["Rzeczywiste"],
@@ -93,7 +93,7 @@
    },
    {
     "description": "Wskaż równanie prostej prostopadłej do prostej o równaniu $2x - 4y = 5$",
-    "combinations": ["A. $y=\frac{1}{2}x$", "B. $y=-\frac{1}{2}$", "C. $y=2x$", "D. $y=-2x$"],
+    "combinations": ["A. $y=\\frac{1}{2}x$", "B. $y=-\\frac{1}{2}$", "C. $y=2x$", "D. $y=-2x$"],
     "answer": "D. $y=-2x$",
     "photoUrl": null,
     "type": "zamkniete",
@@ -103,7 +103,7 @@
     "uid": "zad-9-lin"
    },
    {
-    "description": "Liczba $a$ stanowi $80%$ liczby $b$. Zatem:",
+    "description": "Liczba $a$ stanowi $80 \\%$ liczby $b$. Zatem:",
     "combinations": ["A. $b=1,2a$", "B. $a-b=0,2a$", "C. $a-b =0,2b$", "D. $8b=10a$"],
     "answer": "$8b=10a$",
     "type": "zamkniete",
@@ -315,7 +315,7 @@
    },
    {
     "description": "Liczba $10$ jest przybliżeniem z nadmiarem liczby $a$. Błąd bezwzględny tego przybliżenia wynosi $0,4$. Błąd względny tego przybliżenia to:",
-    "combinations": ["A. $4%$", "B. $4,1(6)%$", "C. $4,(4)%$", "D. $40%$"],
+    "combinations": ["A. $4 \\%$", "B. $4,1(6) \\%$", "C. $4,(4) \\%$", "D. $40 \\%$"],
     "answer": "",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
@@ -444,7 +444,7 @@
     "uid": "zad-42-in"
    },
    {
-    "description": "Wpłacono 500 zł na kolatę dwuletnią, przy rocznej stopie $6%$ i kapitalizacji co pół roku. Po $2$ latach stan konta wynosi",
+    "description": "Wpłacono 500 zł na kolatę dwuletnią, przy rocznej stopie $6 \\%$ i kapitalizacji co pół roku. Po $2$ latach stan konta wynosi",
     "combinations": ["A. $500 \\cdot (1,2)^2$", "B. $500 \\cdot (1,06)^2$", "C. $500\\cdot(1,06)^4$", "D. $500\\cdot(1,03)^4$"],
     "answer": "",
     "photoUrl": null,
@@ -1044,7 +1044,7 @@
 
   },
   {
-    "description": "Klient wpłacił do banku $30 000$ zł na lokatę dwuletnią. Po kazdym rocznym okresie oszczędzania bank dolicza odsetki w wysokości $7%$ od kwoty bieżącego kapitału znajdującego się na lokacie. Po dwóch latach oszczędznaia łączna wartość doliczonych odsetek na tej lokacie (bez uwzględnienia podatków) jest równa",
+    "description": "Klient wpłacił do banku $30 000$ zł na lokatę dwuletnią. Po kazdym rocznym okresie oszczędzania bank dolicza odsetki w wysokości $7 \\%$ od kwoty bieżącego kapitału znajdującego się na lokacie. Po dwóch latach oszczędznaia łączna wartość doliczonych odsetek na tej lokacie (bez uwzględnienia podatków) jest równa",
     "combinations": ["A. $2100$ zł", "B. $2247$ zł", "C. $4200$ zł", "D. $4347$ zł"],
     "answer": "",
     "photoUrl": null,
@@ -1437,7 +1437,7 @@
     "uid": "zad-140-in"
   },
   {
-    "description": "Pan Nowak kupił obligacje Skarbu Państwa za $40 000$ zł oprocentowane $7%$ w skali roku. Odsetki są naliczane i kapitalizowane co rok. Wartość obligacji kupionych przez pana Nowaka będzie po dwóch latach równa",
+    "description": "Pan Nowak kupił obligacje Skarbu Państwa za $40 000$ zł oprocentowane $7 \\%$ w skali roku. Odsetki są naliczane i kapitalizowane co rok. Wartość obligacji kupionych przez pana Nowaka będzie po dwóch latach równa",
     "combinations": ["A. $40 000 \\cdot (1,07)^2$", "B. $40 000 \\cdot (1,7)^2$", "C. $40 000 \\cdot 1,14$", "D. $40 000 \\cdot 1,49$"],
     "answer": "",
     "photoUrl": null,
