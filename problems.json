@@ -1723,10 +1723,10 @@
     "type":"otwarte",
     "answer": "",
     "photoUrl": null,
-    "tags": ["Geometria analityczna", "Trygonometria", "Planimetria"],
-    "answerUrl": null,
+    "tags": ["Trygonometria"],
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311cd47b2326c9b73edba/main.mp4",
     "difficulty": "hard",
-    "uid": "zad-156-geo-an"
+    "uid": "zad-156-tryg"
 
   },
   {
@@ -1736,7 +1736,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Planimetria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311cd333da2f3f13a983b/main.mp4",
     "difficulty": "easy",
     "uid": "zad-157-plan"
   },
@@ -1746,10 +1746,10 @@
     "answer": "",
     "type":"zamkniete",
     "photoUrl": null,
-    "tags": ["Geometria analityczna"],
-    "answerUrl": null,
+    "tags": ["Planimetria"],
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311cd333da2f3f13a983a/main.mp4",
     "difficulty": "medium",
-    "uid": "zad-158-geo-an"
+    "uid": "zad-158-plan"
   },
   {
     "description": "Na płaszczyźnie, w kartezjańskim układzie współrzędnych $(x,y)$, dany jest okrąg $O$ o równaniu: $(x-3)^2 + (y-3)^2 = 13$. Okrąg $O$ przecina oś $Oy$ w punktach o współrzędnych",
@@ -1758,7 +1758,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311cd47b2326c9b73edbb/main.mp4",
     "difficulty": "medium",
     "uid": "zad-159-geo-an"
   },
@@ -1769,7 +1769,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Liniowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311cd47b2326c9b73edb3/main.mp4",
     "difficulty": "medium",
     "uid": "zad-160-lin"
   },
@@ -1780,7 +1780,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Liniowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311cd47b2326c9b73edb8/main.mp4",
     "difficulty": "medium",
     "uid": "zad-161-lin"
   },
@@ -1791,7 +1791,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Stereometria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311ce333da2f3f13a986d/main.mp4",
     "difficulty": "medium",
     "uid": "zad-162-ster"
   },
@@ -1802,7 +1802,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Stereometria"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311d947b2326c9b73ef5d/main.mp4",
     "difficulty": "medium",
     "uid": "zad-163-ster"
   },
@@ -1813,7 +1813,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Prawdopodobieństwo"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311da333da2f3f13a99b5/main.mp4",
     "difficulty": "medium",
     "uid": "zad-164-prawd"
   },
@@ -1824,7 +1824,7 @@
     "answer": "",
     "photoUrl": null,
     "tags": ["Statystyka"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311da333da2f3f13a99c8/main.mp4",
     "difficulty": "medium",
     "uid": "zad-165-stat"
   },
@@ -1835,7 +1835,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311da47b2326c9b73ef99/main.mp4",
     "difficulty": "medium",
     "uid": "zad-166-in"
   },
@@ -1846,18 +1846,18 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311da47b2326c9b73ef8f/main.mp4",
     "difficulty": "medium",
     "uid": "zad-167-in"
   },
   {
     "description": "Wszystkich różnych liczb naturalnych czterocyfrowych, które są nieparzyste i podzielne przez $25$, jest",
-    "combinations": ["A. $9\\cdot9\\cdot2$", "B. $9\\cdot10\\cdot2$", "C. $9\\cdot9\\cdot4$", "D. $9\\cdot10\\cdot4$"],
+    "combinations": ["A. $9 \\cdot 9 \\cdot 2$", "B. $9 \\cdot 10 \\cdot 2$", "C. $9 \\cdot9 \\cdot 4$", "D. $9 \\cdot 10 \\cdot 4$"],
     "answer": "",
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Kombinatoryka"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311da333da2f3f13a99d9/main.mp4",
     "difficulty": "medium",
     "uid": "zad-168-komb"
   },
@@ -1868,7 +1868,7 @@
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311db333da2f3f13a99fb/main.mp4",
     "difficulty": "medium",
     "uid": "zad-169-in"
   },
@@ -1877,11 +1877,11 @@
     "combinations": null,
     "answer": "",
     "photoUrl": null,
-    "tags": ["Równania"],
+    "tags": ["Wielomiany"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e1333da2f3f13a9af8/main.mp4",
     "difficulty": "medium",
-    "uid": "zad-170-row"
+    "uid": "zad-170-wiel"
   },
   {
     "description": "Równanie $\\frac{(x^2 + x)(x+3)(x-1)}{(x^2-1)} = 0$ w zbiorze liczb rzeczywistych ma dokładnie",
@@ -1890,7 +1890,7 @@
     "photoUrl": null,
     "tags": ["Równania"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e147b2326c9b73f096/main.mp4",
     "difficulty": "medium",
     "uid": "zad-171-row"
   },
@@ -1901,7 +1901,7 @@
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e147b2326c9b73f09d/main.mp4",
     "difficulty": "medium",
     "uid": "zad-172-geo-an"
   },
@@ -1912,7 +1912,7 @@
     "photoUrl": null,
     "tags": ["Kwadratowa"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e1333da2f3f13a9b14/main.mp4",
     "difficulty": "medium",
     "uid": "zad-173-kwad"
   },
@@ -1923,7 +1923,7 @@
     "photoUrl": null,
     "tags": ["Ciągi"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e2333da2f3f13a9b28/main.mp4",
     "difficulty": "medium",
     "uid": "zad-174-ciag"
   },
@@ -1934,7 +1934,7 @@
     "photoUrl": null,
     "tags": ["Liniowa"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e247b2326c9b73f0c5/main.mp4",
     "difficulty": "medium",
     "uid": "zad-175-lin"
   },
@@ -1945,7 +1945,7 @@
     "photoUrl": null,
     "tags": ["Trygonometria"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e7333da2f3f13a9bfd/main.mp4",
     "difficulty": "medium",
     "uid": "zad-176-tryg"
   },
@@ -1956,7 +1956,7 @@
     "photoUrl": null,
     "tags": ["Prawdopodobieństwo"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e7333da2f3f13a9c24/main.mp4",
     "difficulty": "medium",
     "uid": "zad-177-prawd"
   },
@@ -1965,20 +1965,20 @@
     "combinations": ["A. $30\\degree$", "B. $40\\degree$", "C. $50\\degree$", "D. $60\\degree$"],
     "answer": "",
     "photoUrl": null,
-    "tags": ["Geometria analityczna", "Planimetria"],
+    "tags": ["Planimetria"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e747b2326c9b73f1ba/main.mp4",
     "difficulty": "medium",
-    "uid": "zad-178-geo-an"
+    "uid": "zad-178-plan"
   },
   {
     "description": "Dany jest trójkąt $ABC$ o bokach długości $6, 7$ oraz $8$. Oblicz cosinus największego kąta tego trójkąta.",
     "combinations": null,
     "answer": "",
     "photoUrl": null,
-    "tags": ["Trygonometria", "Planimetria"],
+    "tags": ["Trygonometria"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e8333da2f3f13a9c60/main.mp4",
     "difficulty": "medium",
     "uid": "zad-179-tryg"
   },
@@ -1989,7 +1989,7 @@
     "photoUrl": null,
     "tags": ["Planimetria"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311e8333da2f3f13a9c45/main.mp4",
     "difficulty": "medium",
     "uid": "zad-180-plan"
   },
@@ -2000,7 +2000,7 @@
     "photoUrl": null,
     "tags": ["Statystyka"],
     "type": "zamkniete",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311ed333da2f3f13a9cff/main.mp4",
     "difficulty": "medium",
     "uid": "zad-181-stat"
   },
@@ -2011,7 +2011,7 @@
     "photoUrl": null,
     "tags": ["Stereometria"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311ed47b2326c9b73f29a/main.mp4",
     "difficulty": "medium",
     "uid": "zad-182-ster"
   },
@@ -2022,7 +2022,7 @@
     "photoUrl": null,
     "tags": ["Dowodowe"],
     "type": "otwarte",
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311ed47b2326c9b73f2c0/main.mp4",
     "difficulty": "medium",
     "uid": "zad-183-dow"
   }, 
@@ -2038,9 +2038,54 @@
     "type": "zamkniete",
     "tags": ["Rzeczywiste"],
     "photoUrl": null,
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311f1333da2f3f13a9da7/main.mp4",
     "difficulty": "easy",
     "uid": "zad-184-in"
+  },
+  {
+    "description": "Liczby rzeczywiste $x$ i $y$ są dodatnie oraz $x \\neq y. Wyrażenie \\frac{1}{x-y} + \\frac{1}{x+y}$ można przekształcić do postaci",
+    "combinations": [
+    "A. $\\frac{2}{x-y}$",
+    "B. $\\frac{2}{x^2-y^2}$",
+    "C. $\\frac{2x}{x^2-y^2}$",
+    "D. $\\frac{-2xy}{x+y}$"
+    ],
+    "answer": "C. $\\frac{2x}{x^2-y^2}$",
+    "type": "zamkniete",
+    "tags": ["Rzeczywiste"],
+    "photoUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311f2333da2f3f13a9dbd/main.mp4",
+    "uid": "zad-185-in"
+  },
+  {
+    "description": "W kartezjańskim układzie współrzędnych $(x,y)$ zaznaczono kąt $\\alpha$ o wierzchołku w punkcie $O=(0,0)$. Jedno z ramion tego kąta pokrywa się z dodatnią półosią $Ox$, a drugie przechodzi przez punkt $P=(-3,1)$ (zobacz rysunek). Tangens kąta $\\alpha$ jest równy",
+    "combinations": [
+    "A. $\\frac{1}{\\sqrt{10}}$",
+    "B. $-\\frac{3}{\\sqrt{10}}$",
+    "C. $-\\frac{3}{1}$",
+    "D. $-\\frac{1}{3}$"
+    ],
+    "answer": "D. $-\\frac{1}{3}$",
+    "type": "zamkniete",
+    "tags": ["Trygonometria"],
+    "photoUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311f247b2326c9b73f360/main.mp4",
+    "uid": "zad-186-tryg"
+  },
+  {
+    "description": "Liczba $7^{\\frac{4}{3}} * \\sqrt[3]{7^5}$ jest równa",
+    "combinations": [
+    "A. $7^{\\frac{4}{5}}$",
+    "B. $7^3$",
+    "C. $7^{\\frac{20}{9}}$",
+    "D. $7^2$"
+    ],
+    "answer": "B. $7^3$",
+    "type": "zamkniete",
+    "tags": ["Rzeczywiste"],
+    "photoUrl": null,
+    "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311f2333da2f3f13a9de6/main.mp4",
+    "uid": "zad-187-in"
   }
   ]
   
