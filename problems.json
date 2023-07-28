@@ -1295,7 +1295,7 @@
     "uid": "zad-117-nier"
   },
   {
-    "description": "Liczba $\\cbrt{-\\frac{27}{16}} \\cdot \\cbrt{2}$ jest równa",
+    "description": "Liczba $\\sqrt[3]{-\\frac{27}{16}} \\cdot \\sqrt[3]{2}$ jest równa",
     "combinations": ["A. $-\\frac{3}{2}$", "B. $\\frac{3}{2}$", "C. $\\frac{2}{3}$", "D. $-\\frac{2}{3}$"],
     "answer": "A. $-\\frac{3}{2}$",
     "type":"zamkniete",

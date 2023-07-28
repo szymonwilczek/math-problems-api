@@ -17,12 +17,20 @@ app.get("/random-problem", (req, res) => {
   }
 });
 
+function shuffleArray(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
 app.get("/random-problems", (req, res) => {
   try {
-    let allProblems = problems.sort(() => Math.random() - 0.5);
+    let allProblems = shuffleArray(problems); // Shuffle the list of problems
 
     const count = Math.floor(Math.random() * (10 - 5 + 1) + 5);
-    allProblems = allProblems.slice(0, count);
+    allProblems = allProblems.slice(0, count); // Randomly select a subset of problems
 
     res.json({ zadania: allProblems });
   } catch (error) {
