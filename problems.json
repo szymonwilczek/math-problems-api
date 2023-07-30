@@ -637,7 +637,7 @@
     "type":"otwarte",
     "photoUrl": null,
     "tags": ["Liniowa"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c47b2326c9b8e0e05/main.mp4",
     "difficulty": "hard",
     "uid": "zad-58-lin"
    },
@@ -659,7 +659,7 @@
     "type":"otwarte",
     "photoUrl": null,
     "tags": ["Geometria analityczna"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c47b2326c9b8e0df4/main.mp4",
     "difficulty": "hard",
     "uid": "zad-60-geoman"
    },
@@ -681,7 +681,7 @@
     "type":"otwarte",
     "photoUrl": null,
     "tags": ["Prawdopodobieństwo"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c47b2326c9b8e0e08/main.mp4",
     "difficulty": "hard",
     "uid": "zad-62-prawd"
    },
@@ -1124,7 +1124,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Procent składany"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c333da2f3f154bee5/main.mp4",
     "difficulty": "medium",
     "uid": "zad-102-proc"
 
@@ -1158,7 +1158,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c333da2f3f154beef/main.mp4",
     "difficulty": "medium",
     "uid": "zad-105-in"
   },
@@ -1290,7 +1290,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Nierówności"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c47b2326c9b8e0df2/main.mp4",
     "difficulty": "medium",
     "uid": "zad-117-nier"
   },
@@ -1556,7 +1556,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Procent składany"],
-    "answerUrl": null,
+    "answerUrl": "https://video.gumlet.io/64c3db1747b2326c9b7bf164/64c69d3c333da2f3f154bf04/main.mp4",
     "difficulty": "medium",
     "uid": "zad-141-proc"
   },
@@ -1567,7 +1567,7 @@
     "type":"zamkniete",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "answerUrl": null,
+    "answerUrl": "https://www.youtube.com/embed/uwr2UXElf?autoplay=1&modestbranding=1A",
     "difficulty": "medium",
     "uid": "zad-142-in"
   },
