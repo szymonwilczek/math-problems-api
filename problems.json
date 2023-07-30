@@ -526,7 +526,7 @@
     "answer": "D. $4$",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "type": "otwarte",
+    "type": "zamkniete",
     "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18eba06c8e607d01897e7/main.mp4",
     "difficulty": "easy",
     "uid": "zad-48-in"
@@ -537,7 +537,7 @@
     "answer": "B. $7^3$",
     "photoUrl": null,
     "tags": ["Rzeczywiste"],
-    "type": "otwarte",
+    "type": "zamkniete",
     "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18ebe06c8e607d0189894/main.mp4",
     "difficulty": "easy",
     "uid": "zad-49-in"
@@ -1717,7 +1717,7 @@
     "uid": "zad-155-plan"
   },
   {
-    "description": "Dany jest trójkąt $ABC$, w którym $|AC| = 4, |AB| = 3, \\cosBAC = \\frac{4}{5}$. Oblicz pole trójkąta $ABC$.",
+    "description": "Dany jest trójkąt $ABC$, w którym $|AC| = 4, |AB| = 3, \\cos BAC = \\frac{4}{5}$. Oblicz pole trójkąta $ABC$.",
     "combinations": null,
     "type":"otwarte",
     "answer": "$P= \\frac{18}{5}$",
@@ -1816,7 +1816,7 @@
     "uid": "zad-164-prawd"
   },
   {
-    "description": "W eksperymencie badano kiełkowanie nasion w pięciu donicach. Na koniec eksperymentu policzono wykiełkowane nasiona z każdej z donic: <ul><li>w I donicy - $133$ nasiona</li><li>w II donicy - $140$ nasion</li><li>w III donicy - $119$ nasion</li><li>w IV donicy - $147$ nasion</li><li>w V donicy - $161$ nasion</li></ul>Odchylenie standardowe liczby wykiełkowanych nasion jest równe $\\delta = 14$. Podaj numery donic, w których liczba wykiełkowanych nasion mieści się w przedziale określonym przez jedno odchylenie standardowe od średniej.",
+    "description": "W eksperymencie badano kiełkowanie nasion w pięciu donicach. Na koniec eksperymentu policzono wykiełkowane nasiona z każdej z donic: <br/> <ul><li>w I donicy - $133$ nasiona</li><li>w II donicy - $140$ nasion</li><li>w III donicy - $119$ nasion</li><li>w IV donicy - $147$ nasion</li><li>w V donicy - $161$ nasion</li></ul><br/>Odchylenie standardowe liczby wykiełkowanych nasion jest równe $\\delta = 14$. Podaj numery donic, w których liczba wykiełkowanych nasion mieści się w przedziale określonym przez jedno odchylenie standardowe od średniej.",
     "combinations": null,
     "type":"otwarte",
     "answer": "$I, II, IV$",
