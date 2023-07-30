@@ -140,7 +140,7 @@
     "combinations": ["A. $8\\sqrt{5}$", "B. $\\frac{7\\sqrt{5} - 9}{4}$", "C. $\\frac{-5\\sqrt{5}}{2}$", "D. $\\frac{11}{4} + \\frac{5}{4}\\sqrt{5}$"],
     "answer": "D. $\\frac{11}{4} + \\frac{5}{4}\\sqrt{5}$",
     "type": "zamkniete",
-    "photoUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c131c106c8e607d014687f/main.mp4",
+    "photoUrl": null,
     "tags": ["Rzeczywiste"],
     "difficulty": "easy",
     "answerUrl": "https://www.youtube.com/watch?v=AE3iXR1JFak",
