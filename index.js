@@ -44,6 +44,7 @@ app.get("/problems", (req, res) => {
     const countParam = req.query.count;
     const maturaParam = req.query.matura;
     const difficultyParam = req.query.difficulty;
+    const tagsParam = req.query.tags;
 
     problems.sort(() => Math.random() - 0.5);
 
@@ -92,6 +93,13 @@ app.get("/problems", (req, res) => {
         );
       }
 
+      if (tagsParam) {
+        const tags = Array.isArray(tagsParam) ? tagsParam : [tagsParam];
+        filteredProblems = filteredProblems.filter((problem) =>
+          tags.some((tag) => problem.tags && problem.tags.includes(tag))
+        );
+      }
+
       if (countParam) {
         const count = parseInt(countParam);
         filteredProblems = filteredProblems.slice(0, count);
@@ -100,6 +108,7 @@ app.get("/problems", (req, res) => {
       res.json({ zadania: filteredProblems });
     }
   } catch (error) {
+    console.log(error);
     res.status(500).json({ error: "Błąd serwera" });
   }
 });
