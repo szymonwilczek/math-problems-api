@@ -350,7 +350,7 @@
     "answer": "C. $6\\sqrt{2}$",
     "type":"zamkniete",
     "photoUrl": null,
-    "tags": "Geometria analityczna",
+    "tags": ["Geometria analityczna"],
     "difficulty": "medium",
     "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c18e9fd635271420a6a138/main.mp4",
     "uid": "zad-32-geoman"
