@@ -2084,6 +2084,232 @@
     "photoUrl": null,
     "answerUrl": "https://video.gumlet.io/647782dcc43ac869939ae869/64c311f2333da2f3f13a9de6/main.mp4",
     "uid": "zad-187-in"
+  },
+  {
+    "description": "Dana jest funkcja $f(x-2)^2-3$. Odczytaj współrzędne wierzchołka paraboli tej funkcji, podaj równanie osi symetrii oraz zbiór wartości funkcji.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Kwadratowa"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-188-kwad"
+  },
+  {
+    "description": "Dana jest funkcja $f(x) = 2x^2 + 8x = 6$. Oblicz współrzędne wierzchołka paraboli, oblicz jej miejsca zerowe oraz zapisz postać iloczynową i kanoniczną tej funkcji.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Kwadratowa"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-189-kwad"
+  },
+  {
+    "description": "Oblicz współczynniki $b$ i $c$ funkcji kwadratowej $f(x) = x^2 + bx + c$, jeśli punkt $W(-1,-3)$ jest wierzchołkiem paraboli tej funkcji.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Kwadratowa"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-190-kwad"
+  },
+  {
+    "description": "Rozwiąż równanie: $2x^2 - 7x + 3 = (2x-1)^2$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Kwadratowa"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-191-kwad"
+  },
+  {
+    "description": "Wykonaj działania: a) $W(x) + P(x)$, b) $W(x) - P(x)$, c) $2W(x) - 3P(x)$, d) $W(x) \\cdot P(x)$, gdzie $W(x) = 2x-3, P(x) = x^2-3x+5$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Wielomiany"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-192-wiel"
+  },
+  {
+    "description": "Oblicz wartość wielomianu $W(x) = -x^3 + 4x^2 - 5x + 6$ dla $x = (-1)$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-193-wiel"
+  },
+  {
+    "description": "Zapisz w postaci sumy algebraicznej wyrażenia: a) $(x+2)^3$, b) $(2x-1)^3$, c) (x+\\sqrt{3})^3",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Rzeczywiste"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-194-in"
+  },
+  {
+    "description": "Wykonaj dzielenie wielomianów: $(2x^3-x^2+3x-4):(x-1)$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Wielomiany"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-195-wiel"
+  },
+  {
+    "description": "Dla jakich wartości parametru $m$ wielomian $W(x) = x^3 + 5x^2 + mx + 3$ jest podzielny przez dwumian $Q(x) = x+3$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Wielomiany"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-196-wiel"
+  },
+  {
+    "description": "Oblicz wartości pozostałych funkcji trygonometrycznych wiedząc, że $\\tg\\alpha = 2$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-197-tryg"
+  },
+  {
+    "description": "Oblicz wartości pozostałych funkcji trygonometrycznych wiedząc, że $\\sin\\alpha = \\frac{3}{4}$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-198-tryg"
+  },
+  {
+    "description": "Oblicz wartości pozostałych funkcji trygonometrycznych wiedząc, że $\\cos\\alpha = \\frac{5}{12}$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-199-tryg"
+  },
+  {
+    "description": "Oblicz obwód trójkąta równoramiennego mając daną wysokość $6cm$ i kąt ostry $\\alpha = 30\\degree$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-200-tryg"
+  },
+  {
+    "description": "Oblicz pole trójkąta $ABC$, gdy $|AB| = 6, |BC| = 10$ i kąt $ABC = 30\\degree$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-201-tryg"
+  },
+  {
+    "description": "Oblicz pole trapezu równoramiennego o podstawach $10cm, 4cm$ i kącie ostrym $30\\degree$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-202-tryg"
+  },
+  {
+    "description": "Oblicz pole trójkąta równobocznego wpisanego w okrąg o promieniu $12cm$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Planimetria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-202-plan"
+  },
+  {
+    "description": "Oblicz miarę kąta wewnętrznego ośmiokąta foremnego.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Planimetria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-203-plan"
+  },
+  {
+    "description": "Oblicz długość trzeciego boku trójkąta $ABC$ mając dane: $|AC| = 8, |BC| = 7$, a kąt $|BAC| = 60\\degree$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Trygonometria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-204-tryg"
+  },
+  {
+    "description": "Oblicz pole koła opisanego na trójkącie równoramiennym o podstawie $12cm$ i ramieniu $10cm$.",
+    "combinations": null,
+    "answer": "",
+    "type": "otwarte",
+    "tags": [
+      "Planimetria"
+    ],
+    "photoUrl": null,
+    "answerUrl": null,
+    "uid": "zad-205-plan"
   }
   ]
   
