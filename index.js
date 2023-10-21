@@ -59,9 +59,9 @@ app.get("/problems", (req, res) => {
         (problem) => problem.difficulty === "hard"
       );
 
-      const easyCount = 7;
-      const mediumCount = 8;
-      const hardCount = 5;
+      const easyCount = 15;
+      const mediumCount = 10;
+      const hardCount = 6;
 
       easyProblems = easyProblems.slice(0, easyCount);
       mediumProblems = mediumProblems.slice(0, mediumCount);

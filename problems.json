@@ -378,7 +378,7 @@
     "uid": "zad-34-stereom"
    },
    {
-    "description": "Kąt ostry $\\alplha$ jest ostry i $\\sin\\alpha = \\frac{7}{13}$. Wtedy $\\tg\\alpha$ jest równy",
+    "description": "Kąt ostry $\\alpha$ jest ostry i $\\sin\\alpha = \\frac{7}{13}$. Wtedy $\\tg\\alpha$ jest równy",
     "combinations": ["A. $\\frac{7}{6}$", "B. $\\frac{7 \\cdot 13}{120}$", "C. $\\frac{7}{\\sqrt{120}}$", "D. $$\\frac{7}{13\\sqrt{120}}"],
     "answer": "C. $\\frac{7}{\\sqrt{120}}$",
     "type":"zamkniete",
