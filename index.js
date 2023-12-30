@@ -113,6 +113,25 @@ app.get("/problems", (req, res) => {
   }
 });
 
+app.get("/problems/:uid", (req, res) => {
+  try {
+    const uidArray = req.params.uid.split(",");
+    const selectedProblems = [];
+
+    uidArray.forEach((uid) => {
+      const problem = problems.find((p) => p.uid === uid);
+      if (problem) {
+        selectedProblems.push(problem);
+      }
+    });
+
+    res.json({ zadania: selectedProblems });
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ error: "Błąd serwera" });
+  }
+});
+
 app.get("/", (req, res) => {
   res.send("Hello world");
 });
